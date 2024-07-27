@@ -10,19 +10,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "+2348140825959"
-global.ownername = "🦄BADBOI 🕷🕸v1"
-global.ytname = "YT: BADBOI 🕷🕸v1"
+global.ownernomer = "+16489945301"
+global.ownername = "🦄deayh🕷🕸v1"
+global.ytname = "YT: lord death🕷🕸v1"
 global.socialm = "GitHub: DGXeon"
 global.location = "Nigeria, ogun-state, ilese"
 
-global.ownernumber = '+2348140825959'  //creator number
-global.ownername = '🦄BADBOI 🕷🕸v1' //owner name
-global.botname = ‘BADBOI 🕷🕸ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '+15489945301'  //creator number
+global.ownername = 'Death 🕷🕸v1' //owner name
+global.botname = ‘Death🕷🕸ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = '🦄 BADBOI 🕷🕸v1\n\nContact: +2348140825959'
+global.author = ' Death 🕷🕸v1\n\nContact: +2348140825959'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -59,7 +59,7 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 //reply messages
 global.mess = {
     done: 'Done !',
-    prem: 'This feature can be used by premium user only or by Badboi😂😂 ',
+    prem: 'This feature can be used by death only or by Badboi😂😂 ',
     admin: 'This feature can be used by admin only or by Badboi 😡😡',
     botAdmin: 'This feature can only be used when BADBOI-v1 is a group admin ',
     owner: 'This feature can be used by owner only or by Badboi ',
